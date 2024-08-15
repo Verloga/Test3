@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: #FF8F40;
+    padding: 50px;
+}
+
+
+footer{
+    background-color: #FF8F40;
+    padding: 70px;
+}
+
+h1{
+    color: #00685A;
+    text-align: center;
+    border: black 2px solid;
+    border-radius: 16px;
+    margin-left: 50px;
+    margin-right: 55px;
+}
+
+
+header a{
+    background-color: #5DD0C0;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 13px;
+}
